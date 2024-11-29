@@ -80,7 +80,7 @@ python mobile_price_prediction.py
 ## Results
 Logistic Regression achieved the highest accuracy with optimized hyperparameters (C=100, penalty='l2'). Support Vector Classifier and Decision Trees also demonstrated competitive performance.
 
-Feel free to adjust this based on additional project-specific details or enhancements!
+
 
 
 
