@@ -2,14 +2,14 @@
 This project predicts the price range of mobile phones using various machine learning models. The dataset includes features like battery power, RAM, screen size, and other hardware specifications to train and evaluate models.
 
 ## Table of Contents
-Introduction
-Dataset
-Features
-Technologies Used
-Models Implemented
-Performance Metrics
-Usage
-Results
+Introduction,
+Dataset,
+Features,
+Technologies Used,
+Models Implemented,
+Performance Metrics,
+Usage,
+Results,
 
 ## Introduction
 Mobile phones have a wide range of features, and predicting their price range based on these features can help manufacturers, sellers, and customers. This project explores machine learning techniques to classify mobile phones into specific price ranges.
